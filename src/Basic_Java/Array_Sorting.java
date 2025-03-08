@@ -24,7 +24,7 @@ public class Array_Sorting {
         fruitsArray();
     }
     public static void printArray(int arr[]){
-
+        //Print First Array
         for (int i=0; i<arr.length; i++){
             System.out.print(arr[i]+ " ");
         }
